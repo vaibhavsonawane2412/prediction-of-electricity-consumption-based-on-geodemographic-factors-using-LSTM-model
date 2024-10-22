@@ -1,0 +1,1 @@
+# prediction-of-electricity-consumption-based-on-geodemographic-factors-using-LSTM-model
